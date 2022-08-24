@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SortingLinkedList_Descending/1.0.0": {
+        "runtime": {
+          "SortingLinkedList_Descending.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortingLinkedList_Descending/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

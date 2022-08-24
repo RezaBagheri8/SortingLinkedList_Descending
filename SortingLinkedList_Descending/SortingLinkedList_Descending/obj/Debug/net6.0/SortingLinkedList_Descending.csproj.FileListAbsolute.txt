@@ -1,0 +1,15 @@
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\bin\Debug\net6.0\SortingLinkedList_Descending.exe
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\bin\Debug\net6.0\SortingLinkedList_Descending.deps.json
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\bin\Debug\net6.0\SortingLinkedList_Descending.runtimeconfig.json
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\bin\Debug\net6.0\SortingLinkedList_Descending.dll
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\bin\Debug\net6.0\SortingLinkedList_Descending.pdb
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\obj\Debug\net6.0\SortingLinkedList_Descending.csproj.AssemblyReference.cache
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\obj\Debug\net6.0\SortingLinkedList_Descending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\obj\Debug\net6.0\SortingLinkedList_Descending.AssemblyInfoInputs.cache
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\obj\Debug\net6.0\SortingLinkedList_Descending.AssemblyInfo.cs
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\obj\Debug\net6.0\SortingLinkedList_Descending.csproj.CoreCompileInputs.cache
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\obj\Debug\net6.0\SortingLinkedList_Descending.dll
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\obj\Debug\net6.0\refint\SortingLinkedList_Descending.dll
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\obj\Debug\net6.0\SortingLinkedList_Descending.pdb
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\obj\Debug\net6.0\SortingLinkedList_Descending.genruntimeconfig.cache
+C:\Users\rezab\source\repos\SortingLinkedList_Descending\SortingLinkedList_Descending\obj\Debug\net6.0\ref\SortingLinkedList_Descending.dll
